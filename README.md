@@ -16,5 +16,8 @@
 ![image](https://user-images.githubusercontent.com/54635552/171107660-cede938a-9abc-4079-99fe-7e73521422ef.png)
 ### 6 epochs
 ![image](https://user-images.githubusercontent.com/54635552/171107686-890cd047-a8cb-4d6b-8247-da3dba739ce9.png)
+### 학습시간
+![image](https://user-images.githubusercontent.com/54635552/171107752-02e47338-598e-4f81-a944-36c95363ebbd.png)
+
 
 
