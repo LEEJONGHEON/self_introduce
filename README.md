@@ -1,3 +1,5 @@
+# 주제 : GPT기반 자소서 생성과 KoBart,TextRank 기반 자소서 요약
+
 # self_introduce
 ### 모델 : kykim/gpt3-kor-small_based_on_gpt2
 ### 토큰나이저 : BertTokenizerFast
