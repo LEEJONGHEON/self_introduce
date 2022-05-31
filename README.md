@@ -19,5 +19,10 @@
 ### 학습시간
 ![image](https://user-images.githubusercontent.com/54635552/171107752-02e47338-598e-4f81-a944-36c95363ebbd.png)
 
+# Summarization
+### 모델 : Kobart ,digit82/kobart-summarization
+
+### 모델 : TextRank
+
 
 
